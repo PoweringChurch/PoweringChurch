@@ -1,16 +1,32 @@
-## Hi there 👋
+###### Last updated 1/18/2026
+# THIS IS A DRAFT!
 
-<!--
-**PoweringChurch/PoweringChurch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello!
 
-Here are some ideas to get you started:
+I'm X M, a xx year old student in Florida. My really enjoy math and science, and especially find computational biology interesting. I want to combine my passion for programming and the  advances in healthcare to make something amazing in my life.
+I have the most programming experience in C# and Lua, but I am also familiar with C++ and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm very familiar with the Unity 6.0 API, and I'm currently making a project that uses Microsoft's ASP.NET and Entity Framework Core.
+
+### Notable Work
+
+#### Built a language model in Lua with no external libraries.
+
+This project was a relatively small language model, and was created to understand transformer architecture fundamentals in practice. I chose Lua for this project as it was fast and simple, making the focus of the project be the concepts rather than the language itself. From this project, I learned the exact purpose of every step in how neural networks function, putting what I learned from various learning courses on machine learning into practice.
+
+#### [Health Metrics API](google.com)
+
+The Health Metrics Api
+
+### Achievements
+
+* Currently maintaining a 4.5 weighted GPA
+* Knowledge Pillar's Wordpress Certified Editor certification  
+* Certiport's Entrepreneurship and Small Business certification
+
+## Goals
+
+I aspire to get into applied computing in medicine and health, and am currently gathering experience in the relevant areas to make landing a job in the field easier.  
+I believe that using my skills for medicinal purposes will help the most people, which is something I try to do as much as possible in my life.
+
+As of right now, I want to finish my current HealthMetrics Minimal API project. After completing this project, I want to start work on another project to practice the fundamentals in diagnostics and algorithms.
