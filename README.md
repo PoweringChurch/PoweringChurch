@@ -6,17 +6,15 @@
 I'm X M, a xx year old student in Florida. My really enjoy math and science, and especially find computational biology interesting. I want to combine my passion for programming and the  advances in healthcare to make something amazing in my life.
 I have the most programming experience in C# and Lua, but I am also familiar with C++ and Python.
 
-I'm very familiar with the Unity 6.0 API, and I'm currently making a project that uses Microsoft's ASP.NET and Entity Framework Core.
-
 ### Notable Work
 
 #### Built a language model in Lua with no external libraries.
 
 This project was a relatively small language model, and was created to understand transformer architecture fundamentals in practice. I chose Lua for this project as it was fast and simple, making the focus of the project be the concepts rather than the language itself. From this project, I learned the exact purpose of every step in how neural networks function, putting what I learned from various learning courses on machine learning into practice.
 
-#### [Health Metrics API](google.com)
+#### [Health Metrics API](https://github.com/PoweringChurch/HealthMetrics)
 
-The Health Metrics Api
+The Health Metrics API is a Minimal API that is designed to store and retrieve information about patients and relevant medical records. This project was created to get more experience in medical practices and what goes into making a web API. I'm currently working on this project!
 
 ### Achievements
 
