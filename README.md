@@ -1,10 +1,9 @@
-###### Last updated 1/18/2026
-# THIS IS A DRAFT!
+###### Last updated 1/21/2026
 
-## Hello!
+## Hello! o/
+I'm Xavier, a 15 year old student in Florida. I really like doing math and science, and especially find computational biology interesting. I want to combine my passion for programming and the advances in healthcare to do something with the time I have.
 
-I'm X M, a xx year old student in Florida. My really enjoy math and science, and especially find computational biology interesting. I want to combine my passion for programming and the  advances in healthcare to make something amazing in my life.
-I have the most programming experience in C# and Lua, but I am also familiar with C++ and Python.
+I have the most functional programming experience in C# and Lua, but I am also familiar with C++ and Python. I plan to brush up my C++ skills some more by practicing with some more libraries soon, and will likely have my projects up on my profile.
 
 ### Notable Work
 
@@ -16,7 +15,7 @@ This project was a relatively small language model, and was created to understan
 
 The Health Metrics API is a Minimal API that is designed to store and retrieve information about patients and relevant medical records. This project was created to get more experience in medical practices and what goes into making a web API. I'm currently working on this project!
 
-### Achievements
+#### Achievements so far
 
 * Currently maintaining a 4.5 weighted GPA
 * Knowledge Pillar's Wordpress Certified Editor certification  
