@@ -1,4 +1,4 @@
-###### Last updated 1/21/2026
+###### Last updated 1/23/2026
 
 ## Hello! o/
 I'm Xavier, a 15 year old student in Florida. I really like doing math and science, and especially find computational biology interesting. I want to combine my passion for programming and the advances in healthcare to do something with the time I have.
@@ -9,7 +9,7 @@ I have the most functional programming experience in C# and Lua, but I am also f
 
 #### Built a language model in Lua with no external libraries.
 
-This project was a relatively small language model, and was created to understand transformer architecture fundamentals in practice. I chose Lua for this project as it was fast and simple, making the focus of the project be the concepts rather than the language itself. From this project, I learned the exact purpose of every step in how neural networks function, putting what I learned from various learning courses on machine learning into practice. Lost the project, but I'm looking to recreate it some time soon!
+This project was a relatively small language model, and was created to understand transformer architecture fundamentals in practice. I chose Lua for this project as it was fast and simple, making the focus of the project be the concepts rather than the language itself. From this project, I learned the exact purpose of every step in how neural networks function, putting what I learned from various learning courses on machine learning into practice. I lost the project some time ago, but I'm looking to make a similar project some time soon!
 
 #### [Health Metrics API](https://github.com/PoweringChurch/HealthMetrics)
 
