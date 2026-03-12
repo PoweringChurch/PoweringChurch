@@ -1,7 +1,7 @@
 ###### Last updated 1/23/2026
 
 ## Hello! o/
-I'm Xavier, a 15 year old student in Florida. I really like doing math and science, and especially find computational biology interesting. I want to combine my passion for programming and the advances in healthcare to do something with the time I have.
+I'm Xavier, a 15 year old student in Florida. I really like doing math and engineering, and especially find robotics based engineering interesting. I want to combine my passion for programming and engineering to do something with the time I have.
 
 I have the most functional programming experience in C# and Lua, but I am also familiar with C++ and Python. I plan to brush up my C++ skills some more by practicing with some more libraries soon, and will likely have my projects up on my profile.
 
@@ -23,7 +23,6 @@ The Health Metrics API is a Minimal API that is designed to store and retrieve i
 
 ## Goals
 
-I aspire to get into applied computing in medicine and health, and am currently gathering experience in the relevant areas to make landing a job in the field easier.  
-I believe that using my skills for medicinal purposes will help the most people, which is something I try to do as much as possible in my life.
+I aspire to get into robotics and engineering, and am currently gathering experience in the relevant areas to make landing a job in the field easier.  
 
-As of right now, I want to finish my current HealthMetrics Minimal API project. After completing this project, I want to start work on another project to practice the fundamentals in diagnostics and algorithms.
+As of right now, I want to finish my current projects. After completing this project, I want to start work on another project to practice the fundamentals in algorithms.
