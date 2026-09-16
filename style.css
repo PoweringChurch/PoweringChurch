@@ -67,6 +67,10 @@ section h2 {
     padding-bottom: 10px;
     border-bottom: 1px solid var(--border);
 }
+section h3 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
 section h4 {
     color :var(--muted);
     margin-top: 10px;
